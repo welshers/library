@@ -1,29 +1,34 @@
-# CSVColumnToArray
-The function getColumn() returns a single column from a csv fie as an array. The csv must be hosted online and accessed through a url.
+
+
 
 
 // returns the final score of world cup
-// param url(year)
+// param url (year)
+//
 //retun column list (finalScore)
 
 
 // returns the world cup year
 // param url(venue)
+//
 //return column list parseInt(worldCupYearList)
 
 // returns the world cup champnpions
-//param (hosts)
+//param url (hosts)
+//
 //returns list (matchingChampions)
 
 // this returns the runner up of the world cup
-// param (champions)
+// param url (champions)
+//
 //returns list wmatching (runnerUps.push)
 
 
 
 
 // returns the number of teams in world cup
-// param(years)
+// param url (years)
+//
 // returns list parseInt(numberOfTeams)
 
 
